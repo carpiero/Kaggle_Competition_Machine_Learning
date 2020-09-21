@@ -1,4 +1,6 @@
-# Ironhack Data Analytics M3 Project README file
+# Kaggle competition
+
+## Ironhack Data Analytics M3 Project 
 
 ![](./images/diamond2.png?style=centerme)
 
@@ -53,15 +55,14 @@ __Main Insights:__
 
 * We see a clear ladder in the barplot of the Average Price per the combinations of **Cut**-**Color**-**Clarity**, better **Cut**-**Color**-**Clarity** the average of price is lower, showing that is difficult to obtain a diamond with a high quality (High**Cut**-High**Color**-High**Clarity**) and high weight (**Carat**).
 
-* We could see that the PRICE BOTTOM 1000 only have carats below 0.85 carats and in the PRICE TOP 1000 we don't see diamonds with less (only 22 of 1000) that 1.4 carats.
 
-__Hypothesis Testing:__
+__Machine Learning Testing:__
 
-* Test 1 - one sample vs constant hypothesis test. 
+* Test 1 - StackingRegressor
 
-* Test 2 - two independent samples. 
+* Test 2 - H20 
 
-* Conclusions inside notebook004.ipynb
+* Conclusions 
 
 
 
