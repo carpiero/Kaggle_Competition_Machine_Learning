@@ -62,7 +62,15 @@ __Machine Learning Testing:__
 
 * Test 2 - H20 
 
-* Conclusions 
+* Conclusions:
+
+The best result is obtained with simple models within the boosting regressor family, the most important thing is to do the train, test and validation well with a 60%, 20%, 20% of the datasheet to verify that the RMSE result in train is not too far from the others (test, validation).
+
+I calculated the RMSE proxy which is a coefficient between the RMSES of the train and the mean of the RMSE test and validation, if this is 1 the RMSE of the train is the same as the RMSE of test and validation, 0 is very different.
+
+Therefore, the important thing is to lower the RMSE without the proxy RMSE coefficient falling too low.
+
+Another important thing is to seek inside the datasheet and create your own variables.
 
 
 
