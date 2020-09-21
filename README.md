@@ -2,7 +2,7 @@
 
 ## Ironhack Data Analytics M3 Project 
 
-![](./images/diamond2.png?style=centerme)
+![](./images/portada.jpg?style=centerme)
 
 ---
 
