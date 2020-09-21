@@ -1,18 +1,15 @@
-# Ironhack Data Analytics M2 Project README file
+# Ironhack Data Analytics M3 Project README file
 
 ![](./images/diamond2.png?style=centerme)
 
 ---
 
-### :raising_hand: **Analysis Diamonds Datasheet** 
+### :raising_hand: **Machine Learning for predicting the price of diamonds** 
 
 
 ### :baby: **Status**
-Ironhack Data Analytics M2 Project
+Ironhack Data Analytics M3 Project
 
-#### Tableau link
-
-https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt0420_project_m2/Dashboard2
 
 ### :boom: **Core technical concepts and inspiration**
 
@@ -22,7 +19,12 @@ https://public.tableau.com/profile/carlos.pi.ero.pardo#!/vizhome/ih_datamadpt042
 - Matplotlib 3.2.1
 - Seaborn 0.10.1
 - Numpy 1.18.1
-- Scipy 1.4.1
+- Scikit-learn 0.23.2
+- Joblib 0.16.0
+- xgboost 1.2.0
+- lightgbm 2.3.0 
+- catboost 0.24
+- h2o 3.30.1.1
 
 ### :see_no_evil: **Insights**
 
@@ -71,10 +73,10 @@ __Hypothesis Testing:__
     ├── README.md
     ├── images
     ├── notebooks
-    │   ├── notebook001.ipynb
-    │   └── notebook002.ipynb
-    │   └── notebook003.ipynb
-    │   └── notebook004.ipynb    
+    │   ├── NotebookML001.ipynb
+    │   └── NotebookML002.ipynb
+    │   └── NotebookML003.ipynb
+    │       
     └── data
         ├── raw
         ├── processed
