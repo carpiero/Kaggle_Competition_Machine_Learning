@@ -1,19 +1,12 @@
-# Kaggle competition
-
-## Ironhack Data Analytics M3 Project 
+# Kaggle competition Machine Learning
 
 ![](./images/portada.jpg?style=centerme)
 
 ---
 
-### :raising_hand: **Machine Learning for predicting the price of diamonds** 
+## :loudspeaker: **Machine Learning for predicting the price of diamonds** 
 
-
-### :baby: **Status**
-Ironhack Data Analytics M3 Project
-
-
-### :boom: **Core technical concepts and inspiration**
+### :computer: **Core technical concepts and inspiration**
 
 - Python 3.7.3
 - Pandas 0.24.2
@@ -28,7 +21,7 @@ Ironhack Data Analytics M3 Project
 - catboost 0.24
 - h2o 3.30.1.1
 
-### :see_no_evil: **Insights**
+### :newspaper: **Insights**
 
 
 #### Variables
