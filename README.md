@@ -1,4 +1,4 @@
-# Kaggle competition Machine Learning
+# :trophy: Kaggle competition Machine Learning
 
 ![](./images/portada.jpg?style=centerme)
 
